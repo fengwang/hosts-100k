@@ -9,6 +9,7 @@ Blacklisting ads server/tracker DNS with new [hosts](https://en.wikipedia.org/wi
     - replace '%SystemRoot%\System32\drivers\etc\hosts' with file 'hosts'
 
 
+Were there any host missing or wrong, please file an issue.
     
 
 
