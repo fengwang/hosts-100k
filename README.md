@@ -3,10 +3,10 @@ Blacklisting ads server/tracker DNS with new [hosts](https://en.wikipedia.org/wi
 ### Usage
 
 + Unix/Linux/POSIX/Mac OS X/Android/IOS
-    - replace '/etc/hosts' with 'hosts'
+    - replace '/etc/hosts' with file 'hosts'
 
 + Windows 
-    - replace '%SystemRoot%\System32\drivers\etc\hosts' with 'hosts'
+    - replace '%SystemRoot%\System32\drivers\etc\hosts' with file 'hosts'
 
 
     
