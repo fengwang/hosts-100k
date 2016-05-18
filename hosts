@@ -4,7 +4,6 @@
 255.255.255.255 broadcasthost
 ::1 localhost
 fe80::1%lo0 localhost
-127.0.1.1 sbc
 
 127.0.0.1    0.r.msn.com
 127.0.0.1    0.start.bz
