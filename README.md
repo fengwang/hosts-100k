@@ -8,7 +8,6 @@ Blacklisting ads server/tracker DNS with new [hosts](https://en.wikipedia.org/wi
 + Windows 
     - replace '%SystemRoot%\System32\drivers\etc\hosts' with file 'hosts'
 
-
 Merged hosts lists:
     - https://pgl.yoyo.org/adservers/
     - http://adblock.mahakala.is/
