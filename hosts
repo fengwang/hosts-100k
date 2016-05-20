@@ -13,6 +13,7 @@
 ::1 localhost
 fe80::1%lo0 localhost
 
+
 0.0.0.0 0.start.bz
 0.0.0.0 0000mps.webpreview.dsl.net
 0.0.0.0 0001.2waky.com
@@ -2603,6 +2604,7 @@ fe80::1%lo0 localhost
 0.0.0.0 7host.com
 0.0.0.0 7hpb1.voluumtrk.com
 0.0.0.0 7hrpx.voluumtrk.com
+0.0.0.0 7huoguo.com
 0.0.0.0 7iytk.voluumtrk.com
 0.0.0.0 7jftl.voluumtrk.com
 0.0.0.0 7jjrd.voluumtrk.com
@@ -102436,6 +102438,7 @@ fe80::1%lo0 localhost
 0.0.0.0 vip.yule8.net
 0.0.0.0 vip1.1tong.com.cn
 0.0.0.0 vip1.tw.adserver.yahoo.com
+0.0.0.0 vip2.7huoguo.com
 0.0.0.0 vip2.clickzs.com
 0.0.0.0 vip2.clickzzs.nl
 0.0.0.0 vip2.t2t2.com
