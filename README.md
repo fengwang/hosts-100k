@@ -2,6 +2,10 @@ Blacklisting ads server/tracker DNS with new [hosts](https://en.wikipedia.org/wi
 
 File 'hosts' accumulates 100K hosts, file 'hosts_1M' accumulates 1M hosts; feel free to use any of them.
 
++ hosts: 100K hosts
++ hosts_1M: 100K hosts + porn hosts
++ googled_hosts: 100K hosts + self-defined google hosts
+
 #### Usage
 
 + Unix/Linux/POSIX/Mac OS X/Android/IOS
@@ -24,6 +28,7 @@ File 'hosts' accumulates 100K hosts, file 'hosts_1M' accumulates 1M hosts; feel 
 + https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 + http://hosts-file.net/ad_servers.txt
 + https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
+
 
 
 Were there any host missing or wrong, please file an issue.
