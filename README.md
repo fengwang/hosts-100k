@@ -29,6 +29,7 @@ File 'hosts' accumulates 100K hosts, file 'hosts_1M' accumulates 1M hosts; feel 
 + http://hosts-file.net/ad_servers.txt
 + https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
 
++ http://laod.cn/hosts/2016-google-hosts.html __google hosts__
 
 
 Were there any host missing or wrong, please file an issue.
