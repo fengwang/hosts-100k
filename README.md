@@ -31,6 +31,11 @@ File 'hosts' accumulates 100K hosts, file 'hosts_1M' accumulates 1M hosts; feel 
 
 + http://laod.cn/hosts/2016-google-hosts.html __google hosts__
 
+ads_hosts merged
++ https://github.com/AdAway/AdAway/wiki/HostsSources
++ https://hosts-file.net/ad_servers.txt
++ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+
 
 Were there any host missing or wrong, please file an issue.
     
