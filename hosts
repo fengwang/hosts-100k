@@ -13,7 +13,6 @@
 ::1 localhost
 fe80::1%lo0 localhost
 
-
 0.0.0.0 0.start.bz
 0.0.0.0 0000mps.webpreview.dsl.net
 0.0.0.0 0001.2waky.com
@@ -83668,6 +83667,7 @@ fe80::1%lo0 localhost
 0.0.0.0 push.wostore.cn
 0.0.0.0 push.wps.cn
 0.0.0.0 push.zhangyue.com
+0.0.0.0 push.zhangzhang.baidu.com
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 pushback.net
 0.0.0.0 pushboat.net
@@ -113166,6 +113166,7 @@ fe80::1%lo0 localhost
 0.0.0.0 zyrtec.3.p2l.info
 0.0.0.0 zyrtec.4.p2l.info
 0.0.0.0 zytt.0fb00c0e57.sdo.com
+0.0.0.0 zz.bdstatic.com
 0.0.0.0 zz.cqcounter.com
 0.0.0.0 zz.csdn.net
 0.0.0.0 zz.zeroredirect1.com
