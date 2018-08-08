@@ -12,7 +12,7 @@ File 'hosts' accumulates 100K hosts, file 'hosts_1M' accumulates 1M hosts; feel 
     - replace '/etc/hosts' with file 'hosts'
     - or replace '/etc/hosts' with file 'hosts_1M'
 
-+ Windows 
++ Windows
     - replace '%SystemRoot%\System32\drivers\etc\hosts' with file 'hosts'
     - or replace '%SystemRoot%\System32\drivers\etc\hosts' with file 'hosts_1M'
 
@@ -35,10 +35,11 @@ ads_hosts merged
 + https://github.com/AdAway/AdAway/wiki/HostsSources
 + https://hosts-file.net/ad_servers.txt
 + https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
++ https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all
 
 
 Were there any host missing or wrong, please file an issue.
-    
+
 
 
 
