@@ -4,7 +4,6 @@ File 'hosts' accumulates 100K hosts, file 'hosts_1M' accumulates 1M hosts; feel 
 
 + hosts: 100K hosts
 + hosts_1M: 100K hosts + porn hosts
-+ googled_hosts: 100K hosts + self-defined google hosts
 
 #### Usage
 
